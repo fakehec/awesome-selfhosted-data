@@ -1,0 +1,11 @@
+name: Uttera TTS (Hot/Cold)
+website_url: https://github.com/uttera/uttera-tts-hotcold
+source_code_url: https://github.com/uttera/uttera-tts-hotcold
+description: OpenAI-compatible Text-to-Speech API server built on Coqui XTTS-v2, with a hybrid Hot/Cold worker pool that serves concurrent requests on a single consumer GPU while keeping VRAM usage low.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
