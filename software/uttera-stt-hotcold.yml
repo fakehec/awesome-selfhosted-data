@@ -1,0 +1,11 @@
+name: Uttera STT (Hot/Cold)
+website_url: https://github.com/uttera/uttera-stt-hotcold
+source_code_url: https://github.com/uttera/uttera-stt-hotcold
+description: OpenAI-compatible Speech-to-Text API server built on faster-whisper, with a hybrid Hot/Cold worker pool for ultra-low latency transcription under concurrent load on a single consumer GPU.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
